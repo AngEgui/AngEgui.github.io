@@ -77,6 +77,15 @@ formulario.addEventListener('submit', async (event) => {
 });
 
 
+function abrirEnMapaIglesia() {
+    // Acción a realizar al hacer clic
+    window.location.href = "https://maps.app.goo.gl/PeMrcLwrrA4ZZrQS6";
+}
+
+function abrirEnMapaSalon() {
+    // Acción a realizar al hacer clic
+    window.location.href = "https://www.google.com/maps/place/Recepciones+Tirol,+Av+Ju%C3%A1rez+2,+Ocotl%C3%A1n,+90100+Tlaxcala+de+Xicoht%C3%A9ncatl,+Tlax./@19.3130181,-98.2274666,17z/data=!4m6!3m5!1s0x85cfd937aa6b6aaf:0x1a1dafd3977817a6!8m2!3d19.3130286!4d-98.2284931!16s%2Fg%2F11b7kdszgh";
+}
 
 
 
