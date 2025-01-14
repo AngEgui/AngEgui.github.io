@@ -166,6 +166,9 @@ button{
     letter-spacing: 4.9px;
     border-width: 3px;
     color: #333;
+
+    border-style: solid; /* Asegúrate de que el borde sea sólido */
+    border-color: #333;
 }
 
 
