@@ -164,9 +164,11 @@ button{
     padding: 10px;
     width: 70%;
     letter-spacing: 4.9px;
-    border-width: 3px;
+    border-width: 1px;
     color: #333;
-
+    font-family: "Antic", serif;
+    font-weight: 600;
+    font-style: normal;
     border-style: solid; /* Asegúrate de que el borde sea sólido */
     border-color: #333;
 }
