@@ -68,7 +68,8 @@ formulario.addEventListener('submit', async (event) => {
             }
         }
 
-        document.getElementById("confirmacion").innerHTML = `<p id="confirmacion" style="font-size:15px">${mensaje}</p>`;
+                document.getElementById("confirmacion").innerHTML = `<p id="confirmacion" class="Font20" >${mensaje}</p>`;
+        document.getElementById("rsvp-form").style.display = "none";
 
 
 
