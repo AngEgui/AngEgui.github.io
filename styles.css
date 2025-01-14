@@ -164,8 +164,8 @@ button{
     padding: 10px;
     width: 70%;
     letter-spacing: 4.9px;
-    border-width: 1px 1px 1px 1px;
-        color: #000;
+    border-width: 3px;
+    color: #333;
 }
 
 
